@@ -20,24 +20,47 @@
 ## Download Compulte Source code
 
 - [GitHub](https://github.com/terdia/php-oop-tdd)
+
 ---
 
 ## PHP Classes and Objects
 
 - A Class is a template or blueprint from which objects are created.
 - Class = Data + Behavior
+- class
+  - variables
+  - methods
+- object
+  - default values (NULL)
+  - set values
+  - display data
+- ternary
 
 ---
 
 ## Bootstrapping An Object
 
+- Constructor
+- default values
+- `__destruct()`
+- types
+
 ---
 
 ## Encapsulation
 
+- visibility or accessibility
+- public
+- private
+- protected
+- Getter & Setter
+
 ---
 
 ## Object Inheritance
+
+- Inheritance
+- Override
 
 ---
 
