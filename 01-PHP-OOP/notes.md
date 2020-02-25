@@ -66,9 +66,17 @@
 
 ## Static Methods & Properties
 
+- Static
+- `self` or `static`
+- Dynamic
+- `$obj = new static`; static byding
+
 ---
 
 ## Method Chaining
+
+- Inside static method use `return new static;`
+- Inside dynamic method use `return $this;`
 
 ---
 
