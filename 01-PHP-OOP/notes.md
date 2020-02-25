@@ -82,6 +82,17 @@
 
 ## Abstract Classes (Database Case Study)
 
+1. Cannot be instantiated using the `new` keyword
+2. Can contain properties, methods and abstract methods
+3. Sub classless must provide their own implementation of any abstract methods
+4. Abstract methods do not have a body
+
+Case Study
+
+Create a package that that allows client to connect, query and return data from the database as `stdClass` using either PDO or MySQLi API
+
+- autoloading
+
 ---
 
 ## Abstract Classes (Database Case Study) - Conclusion
