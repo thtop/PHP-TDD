@@ -95,11 +95,21 @@ Create a package that that allows client to connect, query and return data from 
 
 ---
 
-## Abstract Classes (Database Case Study) - Conclusion
-
----
-
 ## Object Interfaces (Predator and Prey Case Study)
+
+Interface
+
+1. An interface is a contract that specifies which methods a class must implement
+2. An interface doesn't care about how the methods are implemented
+3. An interface can only have publice menthods
+
+Tips:
+
+- Interfaces work best when they describe what something should do
+
+Case Study
+
+- Create a class that describe how Dogs chase and kill Rabbits
 
 ---
 
